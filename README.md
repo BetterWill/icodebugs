@@ -9,6 +9,8 @@
 
 2019-07-04：[拉勾网招聘信息抓取及分析](https://github.com/zhangzhe532/icodebugs/tree/master/DataAnalysis/lagou_data_Analysis)
 
+2019-07-07：[爬取知乎福利图片](https://github.com/zhangzhe532/icodebugs/tree/master/DataAnalysis/zhihu_get_pic)
+
 ### 机器学习：
 
 ### 深度学习：
