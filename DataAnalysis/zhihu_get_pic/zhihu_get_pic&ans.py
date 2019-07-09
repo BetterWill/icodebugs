@@ -69,7 +69,6 @@ def get_answer(json):
 
 # 存储在mongoDB
 # client = MongoClient(host='localhost')
-# print(client)
 # db = client['zhihu']
 # collection = db['zhihu']
 # def save_to_mongodb(answer_info):
